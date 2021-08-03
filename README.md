@@ -24,14 +24,19 @@ THE PROCESS
 Tools used:
 
   Microsoft PowerBI Desktop
+  
   Power Query Editor
+  
   Microsift Excel
   
 Techniques:
 
   Data Extraction (ETL)
+  
   Data Cleansing
+  
   Data Analysis
+  
   Data Visualization
  
 DELIVERABLES
