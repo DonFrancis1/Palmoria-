@@ -1,5 +1,6 @@
 # Palmoria-
 
+THE PROBLEM
 
 The Palmoria Group, a manufacturing company based in the Nigeria is
 embroiled in issues bordering on gender inequality in its 3 regions.
@@ -9,3 +10,5 @@ good for the owners of the business based on their ambition to scale
 the business to other regions and even overseas. Cases like this can
 only spiral downwards revealing other issues like gender pay gap
 amongst other possible issues.
+
+
