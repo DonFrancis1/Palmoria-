@@ -1,6 +1,6 @@
 # Palmoria-
 
-THE PROBLEM
+# THE PROBLEM
 
 The Palmoria Group, a manufacturing company based in the Nigeria is
 embroiled in issues bordering on gender inequality in its 3 regions.
@@ -12,16 +12,16 @@ only spiral downwards revealing other issues like gender pay gap
 amongst other possible issues.
 
 
-THE TASK 
+# THE TASK 
 
 The task to identify key areas within the business that
 could spring up issues and address them immediately.
 As HR Analytics expert, the company’s HR data was analyzed and recommendations
 for management’s attention was given. 
 
-THE PROCESS
+# THE PROCESS
 
-Tools used:
+# Tools used:
 
   Microsoft PowerBI Desktop
   
@@ -29,7 +29,7 @@ Tools used:
   
   Microsift Excel
   
-Techniques:
+# Techniques:
 
   Data Extraction (ETL)
   
@@ -39,10 +39,11 @@ Techniques:
   
   Data Visualization
  
-DELIVERABLES
+# DELIVERABLES
 
 The gender distribution in the organization Distil to
 regions and departments
 
 Insights on ratings, Net Salary and Bonus based on gender
 
+Link To Interactive Dashboard : https://app.powerbi.com/view?r=eyJrIjoiYjQzMTE4YWMtMjlhMy00M2YwLTk3NDMtMzIxNjYzODE5ZGI2IiwidCI6IjgyMjU5N2NkLTQ1ZTYtNDEzMS1hM2JkLTNiNWUwZTFhNzI0MyJ9
