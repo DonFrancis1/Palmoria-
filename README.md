@@ -47,4 +47,4 @@ regions and departments
 
 Insights on ratings, Net Salary and Bonus based on gender
 
-Link To Interactive Dashboard : https://app.powerbi.com/view?r=eyJrIjoiYjQzMTE4YWMtMjlhMy00M2YwLTk3NDMtMzIxNjYzODE5ZGI2IiwidCI6IjgyMjU5N2NkLTQ1ZTYtNDEzMS1hM2JkLTNiNWUwZTFhNzI0MyJ9
+Link To Interactive Dashboard : https://app.powerbi.com/view?r=eyJrIjoiZTMxMTE4MzktZjhjNC00NTA0LWJlMDItNTk3ZjcxNTI0MTIzIiwidCI6IjgyMjU5N2NkLTQ1ZTYtNDEzMS1hM2JkLTNiNWUwZTFhNzI0MyJ9
