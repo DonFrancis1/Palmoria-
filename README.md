@@ -1,4 +1,5 @@
 # Palmoria- HR
+<img width="659" alt="hr" src="https://github.com/DonFrancis1/Palmoria-/assets/88105784/8b25158f-9c66-4c82-b7a8-83fcd371528a">
 
 # THE PROBLEM
 
